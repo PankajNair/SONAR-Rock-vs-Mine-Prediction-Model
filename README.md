@@ -1,4 +1,4 @@
-# SONAR-Rock-vs-Mine-Prediction-Model
+# SONAR Rock vs Mine Prediction Model
 ## Problem Statement
 The detection and classification of underwater objects, such as rocks and mines, are crucial in naval operations, underwater surveillance, and environmental monitoring. Traditional methods of detecting underwater objects, such as sonar imaging, can be time-consuming and labor-intensive, requiring trained personnel to interpret the data. Therefore, there is a need for an accurate and efficient model that can predict whether a given sonar image represents a rock or a mine. A reliable and efficient model for detecting rocks and mines would improve the safety of underwater operations, prevent environmental damage, and reduce the cost and time associated with manual analysis of sonar images.
 ## Data Information
